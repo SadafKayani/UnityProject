@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/General/sceneWelcome.unity
+    guid: 5bed2df6f71a1b942a307facf9568b04
+  - enabled: 1
+    path: Assets/Scenes/General/sceneProfileCreation.unity
+    guid: a649557947f50b94aa3ec666f502b9f9
+  - enabled: 1
+    path: Assets/Scenes/General/sceneProfileDone.unity
+    guid: d25ecf672a0889842b5daaf8ef48dbfe
+  - enabled: 1
+    path: Assets/Scenes/PLI/scenePLIQStart.unity
+    guid: 9a5c32af78872184395b564229dc9895
+  - enabled: 1
+    path: Assets/Scenes/PLI/scenePLIQuestions.unity
+    guid: 8313eda5bda2b1b4f8132bbd78ab2793
+  - enabled: 1
+    path: Assets/Scenes/PLI/scenePLIQDone.unity
+    guid: a97906bfbf6cf6b42a6fb41742ad380e
+  - enabled: 1
+    path: Assets/Scenes/PLI/sceneIdentificationPointing.unity
+    guid: 5f8b2cd313233b24181e4163dc8d6a16
+  - enabled: 1
+    path: Assets/Scenes/PLI/scenePointing.unity
+    guid: 92a344bf4d1d44b43910c2c17aa8a7dd
+  - enabled: 1
+    path: Assets/Scenes/PLI/sceneIdentificationMatching.unity
+    guid: 01ea277e1a4a7b34fbb81757cdf7ba42
+  - enabled: 1
+    path: Assets/Scenes/PLI/sceneMatching.unity
+    guid: 3106f9a0803cd6e4d93c7517708497c9
+  - enabled: 1
+    path: Assets/Scenes/PLI/sceneIdentificationExpressive.unity
+    guid: 85682817fb0d4cf4e85438428fd611fd
+  - enabled: 1
+    path: Assets/Scenes/PLI/sceneExpressive.unity
+    guid: 094a66e7dcd5caa43a929d6157ae17ec
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/PLI/scenePLIResults.unity
+    guid: 93abb2602a10b48418e867284edf6163
+  - enabled: 1
+    path: Assets/Scenes/Acute/Learning/sceneRectification.unity
+    guid: ed8a68eb25593cd4bbd210035f9966a3
+  - enabled: 1
+    path: Assets/Scenes/Acute/Learning/sceneLearningCategories.unity
+    guid: ec34cbb3c4b66214994c1341f8ddeda6
+  - enabled: 1
+    path: Assets/Scenes/Acute/Learning/sceneLCFood.unity
+    guid: 9e43b888d82b4684b99fe231fe860153
+  - enabled: 1
+    path: Assets/Scenes/Acute/Learning/sceneLCAnimals.unity
+    guid: 2cbc2028ba3c2a641a543bfcde19946c
+  - enabled: 1
+    path: Assets/Scenes/Acute/Learning/sceneLCPeople.unity
+    guid: e1d0a4498dcf7c240a947f7e393ddf76
+  - enabled: 1
+    path: Assets/Scenes/Acute/Learning/sceneLCFeelings.unity
+    guid: 726b11ebfb7e894498bf44be3c26c449
+  - enabled: 1
+    path: Assets/Scenes/Acute/Learning/sceneLCShapes&Colours.unity
+    guid: 0a05cf144651b194699ac35006076b39
+  - enabled: 1
+    path: Assets/Scenes/Acute/Learning/sceneLCCommonObj.unity
+    guid: 3b1595cc57c115d4a8a856ab9e41e38b
+  - enabled: 1
+    path: Assets/Scenes/Acute/Gaming/sceneGamingLevel.unity
+    guid: b56ae6860dec3114085d80bcc4a197d9
+  - enabled: 1
+    path: Assets/Scenes/Acute/sceneMatching.unity
+    guid: 76bd6ec7fd6883d459639b2764bcc121
+  - enabled: 1
+    path: Assets/Scenes/Acute/scenePointing.unity
+    guid: f7c429d52e110324dbea21b2ecb2b98b
+  - enabled: 1
+    path: Assets/Scenes/Moderate/Learning/sceneRectification.unity
+    guid: 71432e264e27b1249816e4672ca4db50
+  - enabled: 1
+    path: Assets/Scenes/Moderate/Learning/sceneLearningCategories.unity
+    guid: 41f03d271ddeddc4cab3aec1cf216145
+  - enabled: 1
+    path: Assets/Scenes/Moderate/Learning/sceneLCFood.unity
+    guid: 06266f862e09f174ba13816742b4b4bf
+  - enabled: 1
+    path: Assets/Scenes/Moderate/Learning/sceneLCAnimals.unity
+    guid: ac7131b260914854f9743aa76efae8e1
+  - enabled: 1
+    path: Assets/Scenes/Moderate/Learning/sceneLCPeople.unity
+    guid: c2fc1dbc5784b864db7fada825771a13
+  - enabled: 1
+    path: Assets/Scenes/Moderate/Learning/sceneLCFeelings.unity
+    guid: a758a11147b6f7b489447db52e1b92cf
+  - enabled: 1
+    path: Assets/Scenes/Moderate/Learning/sceneLCShapes&Colours.unity
+    guid: 310e3ed8b83cd504f94b2e3d6b23af34
+  - enabled: 1
+    path: Assets/Scenes/Moderate/Learning/sceneCommonObj.unity
+    guid: 660ac0e8ee6e19642a21dbad9e00fdbc
+  - enabled: 1
+    path: Assets/Scenes/Moderate/Gaming/sceneGamingLevels.unity
+    guid: bd8a7307db114f0469bb4404b6fd41d5
+  - enabled: 1
+    path: Assets/Scenes/Moderate/sceneMatching.unity
+    guid: 6c0cc2fba73854c4699522a2ffebfe09
+  - enabled: 1
+    path: Assets/Scenes/Mild/Learning/sceneRectification.unity
+    guid: fe50e0e8d92efc74fb81c475b1458e8d
+  - enabled: 1
+    path: Assets/Scenes/Mild/Learning/sceneLearningCategories.unity
+    guid: dcc99137a22c3734d88d53cd548949e7
+  - enabled: 1
+    path: Assets/Scenes/Mild/Learning/sceneLCFood.unity
+    guid: 53315a6d79898d1459010bd780f612af
+  - enabled: 1
+    path: Assets/Scenes/Mild/Learning/sceneLCAnimal.unity
+    guid: 1a9a644372f03d84bac8357e4705af96
+  - enabled: 1
+    path: Assets/Scenes/Mild/Learning/sceneLCPeople.unity
+    guid: f895b22981193934a979254413ff7347
+  - enabled: 1
+    path: Assets/Scenes/Mild/Learning/sceneLCFeelings.unity
+    guid: 2c6e679e7d48c2349a5a9343f5183ae4
+  - enabled: 1
+    path: Assets/Scenes/Mild/Learning/sceneLCShapes&Colours.unity
+    guid: 41d53587fe39de1448c831118e193993
+  - enabled: 1
+    path: Assets/Scenes/Mild/Learning/sceneLCCommonObj.unity
+    guid: e0fbd0ef38a37f04ab1e7d2a542f7341
+  - enabled: 1
+    path: Assets/Scenes/Mild/Gaming/sceneGamingLevels.unity
+    guid: 5b835b66ebf89354a88681720fb2a648
+  - enabled: 1
+    path: Assets/Scenes/Acute/Gaming/sceneLevel1.unity
+    guid: 901d6d1faa4ce2f4b85ca2b9115008f6
+  - enabled: 1
+    path: Assets/Scenes/Acute/Gaming/sceneLevelTwo.unity
+    guid: 00cfaa262b773d145b5f51e63581abd0
+  - enabled: 1
+    path: Assets/Scenes/Acute/Gaming/sceneLevelThree.unity
+    guid: 7482d4a39d42b65499b152c9a38d2b64
+  - enabled: 1
+    path: Assets/Scenes/Acute/Gaming/sceneGL2.unity
+    guid: 836787a184990424b969f51d0c6efdd3
+  - enabled: 1
+    path: Assets/Scenes/Acute/Gaming/sceneGL3.unity
+    guid: ebb1fbdfebc9df44789206f2fd1f744f
+  m_configObjects: {}
